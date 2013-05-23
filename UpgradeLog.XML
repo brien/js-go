@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GAS Batch">
+</Property><Property Name="Solution File" Value="C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAS Batch - 2010 Upgrade\GAS Batch.sln">
+</Property><Property Name="Date" Value="Saturday, March 23, 2013">
+</Property><Property Name="Time" Value="6:32 AM">
+</Property></Properties><Event ErrorLevel="0" Project="GAScheduling" Source="GAScheduling.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GAScheduling" Source="GAScheduling.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ExcelAutomation" Source="ExcelAutomation\ExcelAutomation.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ExcelAutomation" Source="ExcelAutomation\ExcelAutomation.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GASEngineCS" Source="GASEngineCS\GASEngineCS.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GASEngineCS" Source="GASEngineCS\GASEngineCS.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Gantt" Source="Gantt Chart 0.55\Gantt.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Gantt" Source="Gantt Chart 0.55\Gantt.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SchedulingMainForm" Source="SchedulingMainForm\SchedulingMainForm.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SchedulingMainForm" Source="SchedulingMainForm\SchedulingMainForm.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GanttControl" Source="BarInfo\GanttControl.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GanttControl" Source="BarInfo\GanttControl.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GanttCS" Source="GanttCS\GanttCS.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GanttCS" Source="GanttCS\GanttCS.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GAS Batch.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="GAS Batch.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GAScheduling" Source="GAScheduling.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ExcelAutomation" Source="ExcelAutomation\ExcelAutomation.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="GASEngineCS" Source="GASEngineCS\GASEngineCS.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Gantt" Source="Gantt Chart 0.55\Gantt.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SchedulingMainForm" Source="SchedulingMainForm\SchedulingMainForm.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="GanttControl" Source="BarInfo\GanttControl.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="GanttCS" Source="GanttCS\GanttCS.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

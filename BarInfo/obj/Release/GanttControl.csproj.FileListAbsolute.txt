@@ -1,0 +1,24 @@
+C:\Documents and Settings\nbova\My Documents\Visual Studio 2008\Projects\ClassLibrary2\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\nbova\My Documents\Visual Studio 2008\Projects\ClassLibrary2\bin\Release\GanttControl.dll
+C:\Documents and Settings\nbova\My Documents\Visual Studio 2008\Projects\ClassLibrary2\bin\Release\GanttControl.pdb
+C:\Documents and Settings\nbova\My Documents\Visual Studio 2008\Projects\ClassLibrary2\obj\Release\GanttControl.dll
+C:\Documents and Settings\nbova\My Documents\Visual Studio 2008\Projects\ClassLibrary2\obj\Release\GanttControl.pdb
+C:\Documents and Settings\nbova\My Documents\Visual Studio 2008\Projects\GAScheduling\BarInfo\bin\Release\GanttControl.dll
+C:\Documents and Settings\nbova\My Documents\Visual Studio 2008\Projects\GAScheduling\BarInfo\bin\Release\GanttControl.pdb
+C:\Documents and Settings\nbova\My Documents\Visual Studio 2008\Projects\GAScheduling\BarInfo\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\nbova\My Documents\Visual Studio 2008\Projects\GAScheduling\BarInfo\obj\Release\GanttControl.dll
+C:\Documents and Settings\nbova\My Documents\Visual Studio 2008\Projects\GAScheduling\BarInfo\obj\Release\GanttControl.pdb
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAScheduling 10-24-2009\BarInfo\bin\Release\GanttControl.dll
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAScheduling 10-24-2009\BarInfo\bin\Release\GanttControl.pdb
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAScheduling 10-24-2009\BarInfo\obj\Release\ResolveAssemblyReference.cache
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAScheduling 10-24-2009\BarInfo\obj\Release\GanttControl.dll
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAScheduling 10-24-2009\BarInfo\obj\Release\GanttControl.pdb
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAS Batch\BarInfo\bin\Release\GanttControl.dll
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAS Batch\BarInfo\bin\Release\GanttControl.pdb
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAS Batch\BarInfo\obj\Release\ResolveAssemblyReference.cache
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAS Batch\BarInfo\obj\Release\GanttControl.dll
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAS Batch\BarInfo\obj\Release\GanttControl.pdb
+C:\Users\nbova\Documents\Visual Studio 2012\Projects\Nestle Demo\BarInfo\bin\Release\GanttControl.dll
+C:\Users\nbova\Documents\Visual Studio 2012\Projects\Nestle Demo\BarInfo\bin\Release\GanttControl.pdb
+C:\Users\nbova\Documents\Visual Studio 2012\Projects\Nestle Demo\BarInfo\obj\Release\GanttControl.dll
+C:\Users\nbova\Documents\Visual Studio 2012\Projects\Nestle Demo\BarInfo\obj\Release\GanttControl.pdb

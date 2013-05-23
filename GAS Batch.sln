@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GAScheduling", "GAScheduling.vbproj", "{5D9400FA-7AB3-47D1-B75C-C57E0BFD2C19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelAutomation", "ExcelAutomation\ExcelAutomation.csproj", "{CADE5607-08DD-4BC6-9377-8C65E55685CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GASEngineCS", "GASEngineCS\GASEngineCS.csproj", "{FD65EDFE-E299-4474-91E5-32C9587C2224}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Gantt", "Gantt Chart 0.55\Gantt.vbproj", "{98CDE6BA-573F-49A8-93FC-CBBE3B49D605}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchedulingMainForm", "SchedulingMainForm\SchedulingMainForm.csproj", "{F98C45EF-22E4-4B82-A493-4BCB76F7C6A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GanttControl", "BarInfo\GanttControl.csproj", "{9DBECA32-0A3F-4D50-940A-6DBB0AB127A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GanttCS", "GanttCS\GanttCS.csproj", "{30AAFBEC-F3ED-4C81-97E4-147905C448F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D9400FA-7AB3-47D1-B75C-C57E0BFD2C19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D9400FA-7AB3-47D1-B75C-C57E0BFD2C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D9400FA-7AB3-47D1-B75C-C57E0BFD2C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D9400FA-7AB3-47D1-B75C-C57E0BFD2C19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CADE5607-08DD-4BC6-9377-8C65E55685CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CADE5607-08DD-4BC6-9377-8C65E55685CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CADE5607-08DD-4BC6-9377-8C65E55685CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CADE5607-08DD-4BC6-9377-8C65E55685CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD65EDFE-E299-4474-91E5-32C9587C2224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD65EDFE-E299-4474-91E5-32C9587C2224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD65EDFE-E299-4474-91E5-32C9587C2224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD65EDFE-E299-4474-91E5-32C9587C2224}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98CDE6BA-573F-49A8-93FC-CBBE3B49D605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98CDE6BA-573F-49A8-93FC-CBBE3B49D605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98CDE6BA-573F-49A8-93FC-CBBE3B49D605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98CDE6BA-573F-49A8-93FC-CBBE3B49D605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F98C45EF-22E4-4B82-A493-4BCB76F7C6A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F98C45EF-22E4-4B82-A493-4BCB76F7C6A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F98C45EF-22E4-4B82-A493-4BCB76F7C6A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F98C45EF-22E4-4B82-A493-4BCB76F7C6A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DBECA32-0A3F-4D50-940A-6DBB0AB127A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DBECA32-0A3F-4D50-940A-6DBB0AB127A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DBECA32-0A3F-4D50-940A-6DBB0AB127A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DBECA32-0A3F-4D50-940A-6DBB0AB127A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30AAFBEC-F3ED-4C81-97E4-147905C448F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30AAFBEC-F3ED-4C81-97E4-147905C448F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30AAFBEC-F3ED-4C81-97E4-147905C448F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30AAFBEC-F3ED-4C81-97E4-147905C448F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

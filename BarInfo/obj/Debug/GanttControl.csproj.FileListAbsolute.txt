@@ -1,0 +1,29 @@
+C:\Documents and Settings\nbova\My Documents\Visual Studio 2008\Projects\ClassLibrary2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nbova\My Documents\Visual Studio 2008\Projects\ClassLibrary2\bin\Debug\GanttControl.dll
+C:\Documents and Settings\nbova\My Documents\Visual Studio 2008\Projects\ClassLibrary2\bin\Debug\GanttControl.pdb
+C:\Documents and Settings\nbova\My Documents\Visual Studio 2008\Projects\ClassLibrary2\obj\Debug\GanttControl.dll
+C:\Documents and Settings\nbova\My Documents\Visual Studio 2008\Projects\ClassLibrary2\obj\Debug\GanttControl.pdb
+C:\Documents and Settings\nbova\My Documents\Visual Studio 2008\Projects\GAScheduling\BarInfo\bin\Debug\GanttControl.dll
+C:\Documents and Settings\nbova\My Documents\Visual Studio 2008\Projects\GAScheduling\BarInfo\bin\Debug\GanttControl.pdb
+C:\Documents and Settings\nbova\My Documents\Visual Studio 2008\Projects\GAScheduling\BarInfo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nbova\My Documents\Visual Studio 2008\Projects\GAScheduling\BarInfo\obj\Debug\GanttControl.dll
+C:\Documents and Settings\nbova\My Documents\Visual Studio 2008\Projects\GAScheduling\BarInfo\obj\Debug\GanttControl.pdb
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAScheduling\BarInfo\bin\Debug\GanttControl.dll
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAScheduling\BarInfo\bin\Debug\GanttControl.pdb
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAScheduling\BarInfo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAScheduling\BarInfo\obj\Debug\GanttControl.dll
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAScheduling\BarInfo\obj\Debug\GanttControl.pdb
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAS Batch\BarInfo\bin\Debug\GanttControl.dll
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAS Batch\BarInfo\bin\Debug\GanttControl.pdb
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAS Batch\BarInfo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAS Batch\BarInfo\obj\Debug\GanttControl.dll
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAS Batch\BarInfo\obj\Debug\GanttControl.pdb
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAS Batch - 2010 Upgrade\BarInfo\bin\Debug\GanttControl.dll
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAS Batch - 2010 Upgrade\BarInfo\bin\Debug\GanttControl.pdb
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAS Batch - 2010 Upgrade\BarInfo\obj\Debug\GanttControl.dll
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAS Batch - 2010 Upgrade\BarInfo\obj\Debug\GanttControl.pdb
+C:\Users\nbova\Documents\Visual Studio 2012\Projects\Nestle Demo\BarInfo\bin\Debug\GanttControl.dll
+C:\Users\nbova\Documents\Visual Studio 2012\Projects\Nestle Demo\BarInfo\bin\Debug\GanttControl.pdb
+C:\Users\nbova\Documents\Visual Studio 2012\Projects\Nestle Demo\BarInfo\obj\Debug\GanttControl.csprojResolveAssemblyReference.cache
+C:\Users\nbova\Documents\Visual Studio 2012\Projects\Nestle Demo\BarInfo\obj\Debug\GanttControl.dll
+C:\Users\nbova\Documents\Visual Studio 2012\Projects\Nestle Demo\BarInfo\obj\Debug\GanttControl.pdb

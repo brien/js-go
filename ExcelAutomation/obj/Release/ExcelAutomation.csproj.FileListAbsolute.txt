@@ -1,0 +1,23 @@
+C:\Documents and Settings\nbova\My Documents\Visual Studio 2008\Projects\GAScheduling\ExcelAutomation\bin\Release\ExcelAutomation.dll
+C:\Documents and Settings\nbova\My Documents\Visual Studio 2008\Projects\GAScheduling\ExcelAutomation\bin\Release\ExcelAutomation.pdb
+C:\Documents and Settings\nbova\My Documents\Visual Studio 2008\Projects\GAScheduling\ExcelAutomation\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\nbova\My Documents\Visual Studio 2008\Projects\GAScheduling\ExcelAutomation\obj\Release\ExcelAutomation.csproj.ResolveComReference.cache
+C:\Documents and Settings\nbova\My Documents\Visual Studio 2008\Projects\GAScheduling\ExcelAutomation\obj\Release\ExcelAutomation.dll
+C:\Documents and Settings\nbova\My Documents\Visual Studio 2008\Projects\GAScheduling\ExcelAutomation\obj\Release\ExcelAutomation.pdb
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAScheduling 10-24-2009\ExcelAutomation\bin\Release\ExcelAutomation.dll
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAScheduling 10-24-2009\ExcelAutomation\bin\Release\ExcelAutomation.pdb
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAScheduling 10-24-2009\ExcelAutomation\obj\Release\ResolveAssemblyReference.cache
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAScheduling 10-24-2009\ExcelAutomation\obj\Release\ExcelAutomation.csproj.ResolveComReference.cache
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAScheduling 10-24-2009\ExcelAutomation\obj\Release\ExcelAutomation.dll
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAScheduling 10-24-2009\ExcelAutomation\obj\Release\ExcelAutomation.pdb
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAS Batch\ExcelAutomation\bin\Release\ExcelAutomation.dll
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAS Batch\ExcelAutomation\bin\Release\ExcelAutomation.pdb
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAS Batch\ExcelAutomation\obj\Release\ResolveAssemblyReference.cache
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAS Batch\ExcelAutomation\obj\Release\ExcelAutomation.csproj.ResolveComReference.cache
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAS Batch\ExcelAutomation\obj\Release\ExcelAutomation.dll
+C:\Users\nbova\Documents\Visual Studio 2008\Projects\GAS Batch\ExcelAutomation\obj\Release\ExcelAutomation.pdb
+C:\Users\nbova\Documents\Visual Studio 2012\Projects\Nestle Demo\ExcelAutomation\bin\Release\ExcelAutomation.dll
+C:\Users\nbova\Documents\Visual Studio 2012\Projects\Nestle Demo\ExcelAutomation\bin\Release\ExcelAutomation.pdb
+C:\Users\nbova\Documents\Visual Studio 2012\Projects\Nestle Demo\ExcelAutomation\obj\Release\ExcelAutomation.csproj.ResolveComReference.cache
+C:\Users\nbova\Documents\Visual Studio 2012\Projects\Nestle Demo\ExcelAutomation\obj\Release\ExcelAutomation.dll
+C:\Users\nbova\Documents\Visual Studio 2012\Projects\Nestle Demo\ExcelAutomation\obj\Release\ExcelAutomation.pdb

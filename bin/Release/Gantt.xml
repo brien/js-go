@@ -1,0 +1,317 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Gantt
+</name>
+</assembly>
+<members>
+<member name="P:Junction.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Junction.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Junction.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:Junction.GanttChart.AllowManualEditBar">
+	<summary>
+ Sets to true if the user should be able to manually edit bars
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Junction.GanttChart.FromDate">
+	<summary>
+ The start date/time of the chart
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Junction.GanttChart.ToDate">
+	<summary>
+ The end date/time of the chart
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Junction.GanttChart.MouseOverRowText">
+	<summary>
+ The text for the current row the mouse hovers above
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Junction.GanttChart.MouseOverRowIndex">
+	<summary>
+ Zero based integer index of the current row the mouse hovers above
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Junction.GanttChart.MouseOverRowValue">
+	<summary>
+ The value for the current bar the mouse hovers above
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Junction.GanttChart.MouseOverColumnDate">
+	<summary>
+ The date/time the mouse hovers above
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Junction.GanttChart.GridColor">
+	<summary>
+ The color of the grid
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Junction.GanttChart.RowFont">
+	<summary>
+ The font used for the row text
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Junction.GanttChart.DateFont">
+	<summary>
+ The font used for the "date" text in the columns
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Junction.GanttChart.TimeFont">
+	<summary>
+ The font used for the "time" text in the colums)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Junction.GanttChart.#ctor">
+	<summary>
+ Default constructor
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Junction.GanttChart.AddChartBar(System.String,System.Object,System.DateTime,System.DateTime,System.Drawing.Color,System.Drawing.Color,System.Int32,System.Int32,System.Boolean,System.Boolean)">
+	<summary>
+ Adds a bar to the list
+ </summary>
+	<param name="rowText">Text for the row</param>
+	<param name="barValue">Value for the row</param>
+	<param name="fromTime">The date/time the bar starts</param>
+	<param name="toTime">The date/time the bar ends</param>
+	<param name="color">The color of the bar</param>
+	<param name="hoverColor">The hover color of the bar</param>
+	<param name="rowIndex">The rowindex of the bar (useful if you want several bars on the same row)</param>
+	<remarks></remarks>
+</member><member name="M:Junction.GanttChart.AddChartBar(System.String,System.Object,System.DateTime,System.DateTime,System.Drawing.Color,System.Drawing.Color,System.Int32,System.Boolean)">
+	<summary>
+ Adds a bar to the list
+ </summary>
+	<param name="rowText">Text for the row</param>
+	<param name="barValue">Value for the row</param>
+	<param name="fromTime">The date/time the bar starts</param>
+	<param name="toTime">The date/time the bar ends</param>
+	<param name="color">The color of the bar</param>
+	<param name="hoverColor">The hover color of the bar</param>
+	<param name="rowIndex">The rowindex of the bar (useful if you want several bars on the same row)</param>
+	<param name="hideFromMouseMove">If you want to "hide" the bar from mousemove event</param>
+	<remarks></remarks>
+</member><member name="M:Junction.GanttChart.ClearChartBars">
+	<summary>
+ Removes all bars from the chart
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Junction.GanttChart.GetIndexChartBar(System.String)">
+	<summary>
+ Gets the next index
+ </summary>
+	<param name="rowText"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Junction.GanttChart.RemoveBars">
+	<summary>
+ Removes all bars from list
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Junction.GanttChart.PaintChart">
+	<summary>
+ Redraws the Gantt chart
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Junction.GanttChart.PaintChart(System.Drawing.Graphics)">
+	<summary>
+ Redraws the Gantt chart
+ </summary>
+	<param name="gfx"></param>
+	<remarks></remarks>
+</member><member name="M:Junction.GanttChart.OnPaint(System.Windows.Forms.PaintEventArgs)">
+	<summary>
+ Redraws the Gantt chart
+ </summary>
+	<param name="pe"></param>
+	<remarks></remarks>
+</member><member name="M:Junction.GanttChart.DrawHeader(System.Drawing.Graphics,System.Collections.Generic.List{Junction.GanttChart.Header})">
+	<summary>
+ Draws the list of headers. Automatically shows which headers to draw, based on the width of the Gantt Chart
+ </summary>
+	<param name="gfx"></param>
+	<param name="headerList"></param>
+	<remarks></remarks>
+</member><member name="M:Junction.GanttChart.DrawBars(System.Drawing.Graphics,System.Boolean)">
+	<summary>
+ Draws the bars
+ </summary>
+	<param name="grfx"></param>
+	<remarks></remarks>
+</member><member name="M:Junction.GanttChart.DrawNetVertical(System.Drawing.Graphics)">
+	<summary>
+ Draws the vertical lines
+ </summary>
+	<param name="grfx"></param>
+	<remarks></remarks>
+</member><member name="M:Junction.GanttChart.DrawNetHorizontal(System.Drawing.Graphics)">
+	<summary>
+ Draws the horizontal lines
+ </summary>
+	<param name="grfx"></param>
+	<remarks></remarks>
+</member><member name="M:Junction.GanttChart.GetFullHeaderList">
+	<summary>
+ Gets the full header list, consisting of hours between the two dates set
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Junction.GanttChart.GanttChart_MouseMove(System.Object,System.Windows.Forms.MouseEventArgs)">
+	<summary>
+ Finds the current row and column based on mouse position
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Junction.GanttChart.GanttChart_MouseLeave(System.Object,System.EventArgs)">
+	<summary>
+ Mouse leave event
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Junction.GanttChart.GanttChart_MouseDragged(System.Object,System.Windows.Forms.MouseEventArgs)">
+	<summary>
+ Mouse drag event
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="P:Junction.GanttChart.ToolTipTextTitle">
+	<summary>
+ The title to draw
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Junction.GanttChart.ToolTipText">
+	<summary>
+ Gets or sets the ToolTipText lines
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks>Don not use the add function directly on this, use ToolTipText = value</remarks>
+</member><member name="M:Junction.GanttChart.ToolTipText_Draw(System.Object,System.Windows.Forms.DrawToolTipEventArgs)">
+	<summary>
+ Draws the ToolTip window
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Junction.GanttChart.ToolTipText_Popup(System.Object,System.Windows.Forms.PopupEventArgs)">
+	<summary>
+ Automatically resizes the ToolTip window
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="P:Junction.GanttChart.Header.HeaderTextInsteadOfTime">
+	<summary>
+ If this string is larger than 0, this will be used instead of Time
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Junction.GanttChart.Header.Time">
+	<summary>
+ Time to display
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Junction.GanttChart.OnResize(System.EventArgs)">
+	<summary>
+ On resize the Gantt Chart is redrawn
+ </summary>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Junction.GanttChart.DrawScrollBar(System.Drawing.Graphics)">
+	<summary>
+ Draws a scrollbar to the component, if there's a need for it
+ </summary>
+	<param name="grfx"></param>
+	<remarks></remarks>
+</member><member name="P:Junction.GanttChart.ScrollPositionY">
+	<summary>
+ The Y-position of the center of the scroll
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Junction.GanttChart.ScrollOneup">
+	<summary>
+ Scrolls one row up
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Junction.GanttChart.ScrollOneDown">
+	<summary>
+ Scrolls one row down
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Junction.GanttChart.GanttChart_Click(System.Object,System.Windows.Forms.MouseEventArgs)">
+	<summary>
+ If the user clicks on the scrollbar, scrolling functions will be called
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Junction.GanttChart.GanttChart_MouseWheel(System.Object,System.Windows.Forms.MouseEventArgs)">
+	<summary>
+ When mousewheel is used, the scrollbar will scroll
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:Junction.GanttChart.SaveImage(System.String)">
+	<summary>
+ Saves the GanttChart to specified image file
+ </summary>
+	<param name="filePath"></param>
+	<remarks></remarks>
+</member><member name="T:Junction.GanttChart">
+	<summary>
+ Adds an easy to use Gantt Chart to your application
+ 
+ Created by Adrian "Adagio" Grau
+ 
+ Version 0.55
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
